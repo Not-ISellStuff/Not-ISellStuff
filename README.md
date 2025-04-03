@@ -1,5 +1,5 @@
 # 👋 About Me:
-14 Years Old<br><br>Learning about Operating System Internals and Web Penetration.
+Learning about Operating System Internals and Web Penetration.
 
 
 # 💻 Tech Stack:
